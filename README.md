@@ -1,2 +1,2 @@
-# Repostiroio para practicar gitpull 5.0
+# Repostiroio para practicar gitpul 7.0
 Repositorio para practicar git pull
