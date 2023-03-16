@@ -1,2 +1,2 @@
-# Repostiroio para practicar gitpull
+# Repostiroio para practicar gitpull 2.0
 Repositorio para practicar git pull
